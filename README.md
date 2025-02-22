@@ -1,5 +1,4 @@
-<h2>### Dockerisation
-Cette application full-stack (Spring Boot, Angular, PostgreSQL, et chatbot AI RAG) est entièrement dockerisée pour simplifier le déploiement. Chaque composant fonctionne dans un conteneur isolé, orchestré via Docker Compose.
+<h2>Event Driven Architecture avec Spring Cloud Streams et Kafka Streams
 </h2>
 <img src="captures/1.png" alt="">
 <img src="captures/2.png" alt="">
